@@ -1,0 +1,4 @@
+outs:
+- md5: 4997018d4b26982c31667bc9aba04459
+  size: 1061116
+  path: footprint.csv

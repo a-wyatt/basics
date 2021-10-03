@@ -1,0 +1,4 @@
+outs:
+- md5: 18982090ea42e5fc0a999e3ae1b2afcf
+  size: 475
+  path: damage_bin_dict.csv

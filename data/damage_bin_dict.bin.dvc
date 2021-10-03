@@ -1,0 +1,4 @@
+outs:
+- md5: 51f15c05c1d87009c673c1238ce59a5d
+  size: 240
+  path: damage_bin_dict.bin

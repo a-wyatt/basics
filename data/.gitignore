@@ -1,0 +1,15 @@
+/Makefile
+/damage_bin_dict.bin
+/damage_bin_dict.csv
+/events_p.bin
+/events_p.csv
+/footprint.bin
+/footprint.csv
+/footprint.idx
+/intensity_bin_dict.csv
+/occurrence_lt.bin
+/occurrence_lt.csv
+/returnperiods.bin
+/returnperiods.csv
+/vulnerability.bin
+/vulnerability.csv

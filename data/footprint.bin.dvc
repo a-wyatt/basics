@@ -1,0 +1,4 @@
+outs:
+- md5: 1ee10a2ec9fd11bf3624007ca6a3f364
+  size: 479972
+  path: footprint.bin
